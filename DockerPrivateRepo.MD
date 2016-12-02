@@ -5,7 +5,7 @@ How to Register a Docker Private Repository
 Create a file named `daemon.json` under `/etc/docker` with below entry <br/>
 `{ "insecure-registries":["<REPO_HOST>:<REPO_PORT>"] }`
 
-
+##Instruction for Private Repository
 Here are the steps to create a docker private repository , push the images, pull the images and run it.
 
 Steps:
