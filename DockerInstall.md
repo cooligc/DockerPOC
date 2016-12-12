@@ -1,6 +1,6 @@
 # Steps to install Docker in RHEL
 
-All the steps to be done using ROOT previlage <br/>
+All the <b>steps</b>to be done using ROOT previlage <br/>
 
 
 - sudo yum update <br/>
